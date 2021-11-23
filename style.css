@@ -38,14 +38,14 @@ table tbody tr.table-colorata{
     background-image: url("img/monitor.jpg");
     background-repeat: no-repeat;
     width: 300px;
-    height: 300px;
+    height: 250px;
 }
 
 .fine-2 {
     background-image: url("img/graph.jpg");
     background-repeat: no-repeat;
     width: 300px;
-    height: 300px;
+    height: 250px;
 }
 
 .testo-immagine {
