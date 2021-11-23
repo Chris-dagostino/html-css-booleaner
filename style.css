@@ -2,12 +2,15 @@
     background-color: rgb(0, 183, 255);
     background-repeat: repeat-x;
     background-image: url("img/pattern.png");
-    background-size: cover;
+    background-size: 35%;
    
 }
 
 .logo-small {
     width: 200px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    margin-left: 5px;
 }
 
 body {
@@ -16,4 +19,55 @@ body {
 
 .text-small {
     font-size: 0.4em;
+}
+
+p .evidenzia {
+    background-color: rgb(251, 255, 0);
+}
+
+h1 span {
+    color: rgb(7, 139, 247);
+}
+
+table tbody tr.table-colorata{
+    background-color: rgb(4, 182, 253);
+}
+
+
+.fine-1 {
+    background-image: url("img/monitor.jpg");
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+}
+
+.fine-2 {
+    background-image: url("img/graph.jpg");
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+}
+
+.testo-immagine {
+    color :  rgb(255, 255, 255);
+
+}
+
+tbody tr {
+    text-align:center;
+    text-align:left;
+    padding: 5px;
+}
+
+th {
+    background-color: rgb(5, 183, 253);
+    color: rgb(255, 255, 255);
+}
+
+tr th-child {
+    background-color: #f2f2f2;
+}    
+
+thead tr {
+    text-align:left;
 }
